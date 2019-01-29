@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Primary" android:id="@+id/pm"/>
+
+    <item android:title="Spam" android:id="@+id/spam"
+        />
+
+    <item
+        android:id="@+id/all"
+        android:title="All Messages" />
+
+</menu>
